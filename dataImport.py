@@ -5,6 +5,11 @@ data source: EXIOBASE ixi v.1.4 (2011)
 """
 
 """
+URGENTI:
+    - fare in modo che la matrice R e R_hh siano quelle originali di exiobase
+    - rendere indipendente il codice dai file del database, che ognuno deve avere sul suo pc e che non saranno caricati su github perchè troppo pesanti
+
+
 problemi/cose da fare:
     - non sono riuscito a definire il factor endowments includendo uso dei fattori esogeni fatto dagli households. 
     quest'ultimo è risutato a valle di matrice di allocazione e se lo includo il problema diventa non risolvibile.
